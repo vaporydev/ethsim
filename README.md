@@ -1,4 +1,4 @@
-# Ethereum Simulation Working Group
+# Vapory Simulation Working Group
 
 This repo captures the discussions, notes, minutes, test plans, and code frameworks for simulators, emulators, and platforms for testing Ethereum 1x and 2x technologies. 
 
